@@ -47,10 +47,10 @@ graph TB
     style AUTH fill:#f3e5f5
     style PATIENT fill:#e8f5e8
     style BILLING fill:#fff3e0
-    style ANALYTICS fill:#fff0f0```
+    style ANALYTICS fill:#fff0f0
+```
 
-
-    ## ✨ Features
+## ✨ Features
 
 | Feature | Description | Status |
 |---------|-------------|--------|
@@ -66,7 +66,6 @@ graph TB
 | 🛡️ **Spring Security** | Comprehensive security configuration | ✅ Implemented |
 | 🔍 **Service Discovery** | Dynamic service registration and discovery | ✅ Implemented |
 | 📝 **API Documentation** | Comprehensive API docs with OpenAPI | ✅ Implemented |
-
 
 ## 🛠️ Tech Stack
 
@@ -107,4 +106,3 @@ graph TB
 - **REST APIs** - Standard HTTP endpoints
 - **OpenAPI 3** - API documentation
 - **gRPC Protobuf** - Protocol buffer definitions
-
